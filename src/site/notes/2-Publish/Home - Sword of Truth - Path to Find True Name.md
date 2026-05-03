@@ -4,4 +4,4 @@
 
 # Welcome to Alaska Morning Coffee ☕
 
-_A digital garden of exploring ideas at the intersection of sustainability, technology, and authentic living in the Last Frontier._
+_A digital garden of exploring ideas at the intersection of sustainability, technology, and authentic living in the Last Frontier.
